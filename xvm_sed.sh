@@ -36,4 +36,4 @@ cd -
 echo "finished"
 
 # if all went well, you will find a file named with the xvm version in the wot dir
-
+# for example: 8.2.0_42
